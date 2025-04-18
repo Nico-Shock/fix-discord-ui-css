@@ -1,4 +1,4 @@
-'''
+```
 @import url("https://scattagain.github.io/VencordStuff/css/GuildbarRevert.css");
 @import url('https://raw.githubusercontent.com/surgedevs/visual-refresh-compact-title-bar/refs/heads/main/desktop.css');
 
@@ -81,5 +81,4 @@ span[class*="timestampInline_"] {
 .separator_f84418 {
    display: none;
 }
-
-'''
+```
